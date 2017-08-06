@@ -45,6 +45,8 @@ REPO_NAME_PTNFLY=patternfly
 REPO_NAME_PTNFLY_ANGULAR=angular-patternfly
 REPO_NAME_PTNFLY_NG=patternfly-ng
 REPO_NAME_PTNFLY_ORG=patternfly-org
+REPO_NAME_PTNFLY_ENG_RELEASE=patternfly-eng-release
+REPO_NAME_PTNFLY_WC=patternfly-webcomponents
 REPO_NAME_RCUE=rcue
 
 # Repo owners

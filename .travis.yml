@@ -17,6 +17,7 @@ script:
 after_success:
   - npm prune
   - npm run semantic-release
+  - sh -x ./scripts/_post-release.sh -e
 
 branches:
   except:
